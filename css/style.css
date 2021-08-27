@@ -1,6 +1,12 @@
 @font-face {
-    font-family: 'CatV_6x12_9';
-    src: url('../fonts/CatV_6x12_9/CatV_6x12_9.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'CatV_6x12_9';
+  src: url('../fonts/CatV_6x12_9/CatV_6x12_9.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  font-family:'CatV_6x12_9';
+  font-weight: normal;
+  font-style: normal;
 }

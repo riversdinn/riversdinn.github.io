@@ -5,6 +5,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'BPtypewriteDamaged';
+  src: url('../fonts/bptypewrite/BPtypewriteDamaged.otf') format('opentype');
+
+}
+
+
 p {
   font-family:'CatV_6x12_9';
   font-weight: normal;
